@@ -1,0 +1,241 @@
+{
+    "Questions": [
+        {
+            "Name": "Abkhazia",
+			"Question": {
+                    "en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+                    
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Abkhazia.png",
+            "Utterances": [
+                    "Abkhazia",
+                    "Ab kazia",
+                    "ab carsia"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The region enjoyed autonomy within Soviet Georgia at the time when the Soviet Union began to disintegrate in the late 1980s",
+                        "The status of this country is a central issue of the Georgia–Russia relations",
+                        "is a partially recognised state on the eastern coast of the Black Sea and the south-western flank of the Caucasus Mountains, south of Russia and northwest of Georgia proper."
+                    ],
+                    "en-US": [
+                        "The region enjoyed autonomy within Soviet Georgia at the time when the Soviet Union began to disintegrate in the late 1980s",
+                        "The status of this country is a central issue of the Georgia–Russia relations",
+                        "is a partially recognized state on the eastern coast of the Black Sea and the south-western flank of the Caucasus Mountains, south of Russia and northwest of Georgia proper."
+                    ]
+                    ,
+                    "en-AU": [
+                        "The region enjoyed autonomy within Soviet Georgia at the time when the Soviet Union began to disintegrate in the late 1980s",
+                        "The status of this country is a central issue of the Georgia–Russia relations",
+                        "is a partially recognised state on the eastern coast of the Black Sea and the south-western flank of the Caucasus Mountains, south of Russia and northwest of Georgia proper."
+                    ]
+                    ,
+                    "en-CA": [
+                        "The region enjoyed autonomy within Soviet Georgia at the time when the Soviet Union began to disintegrate in the late 1980s",
+                        "The status of this country is a central issue of the Georgia–Russia relations",
+                        "is a partially recognized state on the eastern coast of the Black Sea and the south-western flank of the Caucasus Mountains, south of Russia and northwest of Georgia proper."
+                    ]
+                    ,
+                    "en-IN": [
+                        "The region enjoyed autonomy within Soviet Georgia at the time when the Soviet Union began to disintegrate in the late 1980s",
+                        "The status of this country is a central issue of the Georgia–Russia relations",
+                        "is a partially recognised state on the eastern coast of the Black Sea and the south-western flank of the Caucasus Mountains, south of Russia and northwest of Georgia proper."
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Adygea",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?",
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Abkhazia.png",
+            "Utterances": [
+                    "Adygea",
+                    "Ady gea",
+                    "Ady jea",
+					"Ady jeer",
+					"Ady geer"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "It lies in Russia's Southern Federal District of Eastern Europe, in the foothills of the Northwestern Caucasus in the Caucasus Mountains System",
+					"The 870 kilometer long Kuban River is one of the major navigable rivers in the Caucasus region. It forms part of the northern border of this country",
+					"Its capital city is Maykop"
+                ],
+                "en-US": [
+                    "It lies in Russia's Southern Federal District of Eastern Europe, in the foothills of the Northwestern Caucasus in the Caucasus Mountains System",
+					"The 870 kilometer long Kuban River is one of the major navigable rivers in the Caucasus region. It forms part of the northern border of this country",
+					"Its capital city is Maykop"
+                ],
+                "en-AU": [
+                    "It lies in Russia's Southern Federal District of Eastern Europe, in the foothills of the Northwestern Caucasus in the Caucasus Mountains System",
+					"The 870 kilometer long Kuban River is one of the major navigable rivers in the Caucasus region. It forms part of the northern border of this country",
+					"Its capital city is Maykop"
+                ],
+                "en-CA": [
+                    "It lies in Russia's Southern Federal District of Eastern Europe, in the foothills of the Northwestern Caucasus in the Caucasus Mountains System",
+					"The 870 kilometer long Kuban River is one of the major navigable rivers in the Caucasus region. It forms part of the northern border of this country",
+					"Its capital city is Maykop"
+                ],
+                "en-IN": [
+                    "It lies in Russia's Southern Federal District of Eastern Europe, in the foothills of the Northwestern Caucasus in the Caucasus Mountains System",
+					"The 870 kilometer long Kuban River is one of the major navigable rivers in the Caucasus region. It forms part of the northern border of this country",
+					"Its capital city is Maykop"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+		{
+            "Name": "Afghanistan",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?",
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Afghanistan.png",
+            "Utterances": [
+                    "Afghanistan",
+                    "aff ganistan",
+                    "Afgha nistan"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "officially the it is an islamic state, is a landlocked country located within South Asia and Central Asia",
+					"The country has a population of 35 million, making it the 42nd most populous country in the world.",
+					"is bordered by Pakistan in the south and east; Iran in the west"
+                ],
+                "en-US": [
+                    "officially the it is an islamic state, is a landlocked country located within South Asia and Central Asia",
+					"The country has a population of 35 million, making it the 42nd most populous country in the world.",
+					"is bordered by Pakistan in the south and east; Iran in the west"
+                ],
+                "en-AU": [
+                    "officially the it is an islamic state, is a landlocked country located within South Asia and Central Asia",
+					"The country has a population of 35 million, making it the 42nd most populous country in the world.",
+					"is bordered by Pakistan in the south and east; Iran in the west"
+                ],
+                "en-CA": [
+                    "officially the it is an islamic state, is a landlocked country located within South Asia and Central Asia",
+					"The country has a population of 35 million, making it the 42nd most populous country in the world.",
+					"is bordered by Pakistan in the south and east; Iran in the west"
+                ],
+                "en-IN": [
+                    "officially the it is an islamic state, is a landlocked country located within South Asia and Central Asia",
+					"The country has a population of 35 million, making it the 42nd most populous country in the world.",
+					"is bordered by Pakistan in the south and east; Iran in the west"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+		{
+            "Name": "Ajaria",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?",
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Ajaria.png",
+            "Utterances": [
+                    "Ajaria",
+                    "ajar ia",
+                    "Ajaa ria"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "it lies on the coast of the Black Sea near the foot of the Lesser Caucasus Mountains, north of Turkey",
+					"Under the Soviet Union, the country was part of the Georgian Soviet Socialist Republic",
+					"it was Colonized by Greeks in the 5th century BC, the region fell under Rome in the 2nd century BC"
+                ],
+                "en-US": [
+                    "it lies on the coast of the Black Sea near the foot of the Lesser Caucasus Mountains, north of Turkey",
+					"Under the Soviet Union, the country was part of the Georgian Soviet Socialist Republic",
+					"it was Colonized by Greeks in the 5th century BC, the region fell under Rome in the 2nd century BC"
+                ],
+                "en-AU": [
+                    "it lies on the coast of the Black Sea near the foot of the Lesser Caucasus Mountains, north of Turkey",
+					"Under the Soviet Union, the country was part of the Georgian Soviet Socialist Republic",
+					"it was Colonized by Greeks in the 5th century BC, the region fell under Rome in the 2nd century BC"
+                ],
+                "en-CA": [
+                    "it lies on the coast of the Black Sea near the foot of the Lesser Caucasus Mountains, north of Turkey",
+					"Under the Soviet Union, the country was part of the Georgian Soviet Socialist Republic",
+					"it was Colonized by Greeks in the 5th century BC, the region fell under Rome in the 2nd century BC"
+                ],
+                "en-IN": [
+                    "it lies on the coast of the Black Sea near the foot of the Lesser Caucasus Mountains, north of Turkey",
+					"Under the Soviet Union, the country was part of the Georgian Soviet Socialist Republic",
+					"it was Colonized by Greeks in the 5th century BC, the region fell under Rome in the 2nd century BC"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+		{
+            "Name": "Aland",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?",
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Aland.png",
+            "Utterances": [
+                    "Aland",
+                    "al land",
+                    "all and"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "it is an archipelago at the entrance to the Gulf of Bothnia in the Baltic Sea belonging to Finland",
+					"The autonomous status of the islands was affirmed by a decision made by the League of Nations in 1921 following a dispute",
+					"the country remains exclusively Swedish speaking"
+                ],
+                "en-US": [
+                    "it is an archipelago at the entrance to the Gulf of Bothnia in the Baltic Sea belonging to Finland",
+					"The autonomous status of the islands was affirmed by a decision made by the League of Nations in 1921 following a dispute",
+					"the country remains exclusively Swedish speaking"
+                ],
+                "en-AU": [
+                    "it is an archipelago at the entrance to the Gulf of Bothnia in the Baltic Sea belonging to Finland",
+					"The autonomous status of the islands was affirmed by a decision made by the League of Nations in 1921 following a dispute",
+					"the country remains exclusively Swedish speaking"
+                ],
+                "en-CA": [
+                    "it is an archipelago at the entrance to the Gulf of Bothnia in the Baltic Sea belonging to Finland",
+					"The autonomous status of the islands was affirmed by a decision made by the League of Nations in 1921 following a dispute",
+					"the country remains exclusively Swedish speaking"
+                ],
+                "en-IN": [
+                    "it is an archipelago at the entrance to the Gulf of Bothnia in the Baltic Sea belonging to Finland",
+					"The autonomous status of the islands was affirmed by a decision made by the League of Nations in 1921 following a dispute",
+					"the country remains exclusively Swedish speaking"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        }
+    ]
+}
