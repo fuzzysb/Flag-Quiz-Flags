@@ -1,0 +1,808 @@
+{
+    "Questions": [
+        {
+            "Name": "Abkhazia",
+            "CountryCode": "AB",
+			"Question": {
+                    "en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+                    
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Abkhazia.png",
+            "Utterances": [
+                    "Abkhazia",
+                    "Ab kazia",
+                    "ab carsia"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The region enjoyed autonomy within Soviet Georgia at the time when the Soviet Union began to disintegrate in the late 1980s",
+                        "The status of this country is a central issue of the Georgia–Russia relations",
+                        "is a partially recognised state on the eastern coast of the Black Sea and the south-western flank of the Caucasus Mountains, south of Russia and northwest of Georgia proper."
+                    ],
+                    "en-US": [
+                        "The region enjoyed autonomy within Soviet Georgia at the time when the Soviet Union began to disintegrate in the late 1980s",
+                        "The status of this country is a central issue of the Georgia–Russia relations",
+                        "is a partially recognized state on the eastern coast of the Black Sea and the south-western flank of the Caucasus Mountains, south of Russia and northwest of Georgia proper."
+                    ]
+                    ,
+                    "en-AU": [
+                        "The region enjoyed autonomy within Soviet Georgia at the time when the Soviet Union began to disintegrate in the late 1980s",
+                        "The status of this country is a central issue of the Georgia–Russia relations",
+                        "is a partially recognised state on the eastern coast of the Black Sea and the south-western flank of the Caucasus Mountains, south of Russia and northwest of Georgia proper."
+                    ]
+                    ,
+                    "en-CA": [
+                        "The region enjoyed autonomy within Soviet Georgia at the time when the Soviet Union began to disintegrate in the late 1980s",
+                        "The status of this country is a central issue of the Georgia–Russia relations",
+                        "is a partially recognized state on the eastern coast of the Black Sea and the south-western flank of the Caucasus Mountains, south of Russia and northwest of Georgia proper."
+                    ]
+                    ,
+                    "en-IN": [
+                        "The region enjoyed autonomy within Soviet Georgia at the time when the Soviet Union began to disintegrate in the late 1980s",
+                        "The status of this country is a central issue of the Georgia–Russia relations",
+                        "is a partially recognised state on the eastern coast of the Black Sea and the south-western flank of the Caucasus Mountains, south of Russia and northwest of Georgia proper."
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Adygea",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Abkhazia.png",
+            "Utterances": [
+                    "Adygea",
+                    "Ady gea",
+                    "Ady jea",
+					"Ady jeer",
+					"Ady geer"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "It lies in Russia's Southern Federal District of Eastern Europe, in the foothills of the Northwestern Caucasus in the Caucasus Mountains System",
+					"The 870 kilometer long Kuban River is one of the major navigable rivers in the Caucasus region. It forms part of the northern border of this country",
+					"Its capital city is Maykop"
+                ],
+                "en-US": [
+                    "It lies in Russia's Southern Federal District of Eastern Europe, in the foothills of the Northwestern Caucasus in the Caucasus Mountains System",
+					"The 870 kilometer long Kuban River is one of the major navigable rivers in the Caucasus region. It forms part of the northern border of this country",
+					"Its capital city is Maykop"
+                ],
+                "en-AU": [
+                    "It lies in Russia's Southern Federal District of Eastern Europe, in the foothills of the Northwestern Caucasus in the Caucasus Mountains System",
+					"The 870 kilometer long Kuban River is one of the major navigable rivers in the Caucasus region. It forms part of the northern border of this country",
+					"Its capital city is Maykop"
+                ],
+                "en-CA": [
+                    "It lies in Russia's Southern Federal District of Eastern Europe, in the foothills of the Northwestern Caucasus in the Caucasus Mountains System",
+					"The 870 kilometer long Kuban River is one of the major navigable rivers in the Caucasus region. It forms part of the northern border of this country",
+					"Its capital city is Maykop"
+                ],
+                "en-IN": [
+                    "It lies in Russia's Southern Federal District of Eastern Europe, in the foothills of the Northwestern Caucasus in the Caucasus Mountains System",
+					"The 870 kilometer long Kuban River is one of the major navigable rivers in the Caucasus region. It forms part of the northern border of this country",
+					"Its capital city is Maykop"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+		{
+            "Name": "Afghanistan",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Afghanistan.png",
+            "Utterances": [
+                    "Afghanistan",
+                    "aff ganistan",
+                    "Afgha nistan"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "officially the it is an islamic state, is a landlocked country located within South Asia and Central Asia",
+					"The country has a population of 35 million, making it the 42nd most populous country in the world.",
+					"is bordered by Pakistan in the south and east; Iran in the west"
+                ],
+                "en-US": [
+                    "officially the it is an islamic state, is a landlocked country located within South Asia and Central Asia",
+					"The country has a population of 35 million, making it the 42nd most populous country in the world.",
+					"is bordered by Pakistan in the south and east; Iran in the west"
+                ],
+                "en-AU": [
+                    "officially the it is an islamic state, is a landlocked country located within South Asia and Central Asia",
+					"The country has a population of 35 million, making it the 42nd most populous country in the world.",
+					"is bordered by Pakistan in the south and east; Iran in the west"
+                ],
+                "en-CA": [
+                    "officially the it is an islamic state, is a landlocked country located within South Asia and Central Asia",
+					"The country has a population of 35 million, making it the 42nd most populous country in the world.",
+					"is bordered by Pakistan in the south and east; Iran in the west"
+                ],
+                "en-IN": [
+                    "officially the it is an islamic state, is a landlocked country located within South Asia and Central Asia",
+					"The country has a population of 35 million, making it the 42nd most populous country in the world.",
+					"is bordered by Pakistan in the south and east; Iran in the west"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+		{
+            "Name": "Ajaria",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Ajaria.png",
+            "Utterances": [
+                    "Ajaria",
+                    "ajar ia",
+                    "Ajaa ria"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "it lies on the coast of the Black Sea near the foot of the Lesser Caucasus Mountains, north of Turkey",
+					"Under the Soviet Union, the country was part of the Georgian Soviet Socialist Republic",
+					"it was Colonized by Greeks in the 5th century BC, the region fell under Rome in the 2nd century BC"
+                ],
+                "en-US": [
+                    "it lies on the coast of the Black Sea near the foot of the Lesser Caucasus Mountains, north of Turkey",
+					"Under the Soviet Union, the country was part of the Georgian Soviet Socialist Republic",
+					"it was Colonized by Greeks in the 5th century BC, the region fell under Rome in the 2nd century BC"
+                ],
+                "en-AU": [
+                    "it lies on the coast of the Black Sea near the foot of the Lesser Caucasus Mountains, north of Turkey",
+					"Under the Soviet Union, the country was part of the Georgian Soviet Socialist Republic",
+					"it was Colonized by Greeks in the 5th century BC, the region fell under Rome in the 2nd century BC"
+                ],
+                "en-CA": [
+                    "it lies on the coast of the Black Sea near the foot of the Lesser Caucasus Mountains, north of Turkey",
+					"Under the Soviet Union, the country was part of the Georgian Soviet Socialist Republic",
+					"it was Colonized by Greeks in the 5th century BC, the region fell under Rome in the 2nd century BC"
+                ],
+                "en-IN": [
+                    "it lies on the coast of the Black Sea near the foot of the Lesser Caucasus Mountains, north of Turkey",
+					"Under the Soviet Union, the country was part of the Georgian Soviet Socialist Republic",
+					"it was Colonized by Greeks in the 5th century BC, the region fell under Rome in the 2nd century BC"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+		{
+            "Name": "Aland",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Aland.png",
+            "Utterances": [
+                    "Aland",
+                    "al land",
+                    "all and"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "it is an archipelago at the entrance to the Gulf of Bothnia in the Baltic Sea belonging to Finland",
+					"The autonomous status of the islands was affirmed by a decision made by the League of Nations in 1921 following a dispute",
+					"the country remains exclusively Swedish speaking"
+                ],
+                "en-US": [
+                    "it is an archipelago at the entrance to the Gulf of Bothnia in the Baltic Sea belonging to Finland",
+					"The autonomous status of the islands was affirmed by a decision made by the League of Nations in 1921 following a dispute",
+					"the country remains exclusively Swedish speaking"
+                ],
+                "en-AU": [
+                    "it is an archipelago at the entrance to the Gulf of Bothnia in the Baltic Sea belonging to Finland",
+					"The autonomous status of the islands was affirmed by a decision made by the League of Nations in 1921 following a dispute",
+					"the country remains exclusively Swedish speaking"
+                ],
+                "en-CA": [
+                    "it is an archipelago at the entrance to the Gulf of Bothnia in the Baltic Sea belonging to Finland",
+					"The autonomous status of the islands was affirmed by a decision made by the League of Nations in 1921 following a dispute",
+					"the country remains exclusively Swedish speaking"
+                ],
+                "en-IN": [
+                    "it is an archipelago at the entrance to the Gulf of Bothnia in the Baltic Sea belonging to Finland",
+					"The autonomous status of the islands was affirmed by a decision made by the League of Nations in 1921 following a dispute",
+					"the country remains exclusively Swedish speaking"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Albania",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Albania.png",
+            "Utterances": [
+                    "Albania",
+                    "al bania",
+                    "allbania"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "is a country in Southeastern Europe. It spans 28,748 square kilometres and had a total population of 3 million people as of 2016",
+					"It is in the southwestern portion of the Balkan Peninsula, bordered by Montenegro to the northwest, Kosovo to the northeast",
+					"Much of the country is mountainous, including the Korab Mountains in the east, the Ceraunian Mountains in the south and the Skanderbeg Mountains in the center."
+                ],
+                "en-US": [
+                    "is a country in Southeastern Europe. It spans 28,748 square kilometres and had a total population of 3 million people as of 2016",
+					"It is in the southwestern portion of the Balkan Peninsula, bordered by Montenegro to the northwest, Kosovo to the northeast",
+					"Much of the country is mountainous, including the Korab Mountains in the east, the Ceraunian Mountains in the south and the Skanderbeg Mountains in the center."
+                ],
+                "en-AU": [
+                    "is a country in Southeastern Europe. It spans 28,748 square kilometres and had a total population of 3 million people as of 2016",
+					"It is in the southwestern portion of the Balkan Peninsula, bordered by Montenegro to the northwest, Kosovo to the northeast",
+					"Much of the country is mountainous, including the Korab Mountains in the east, the Ceraunian Mountains in the south and the Skanderbeg Mountains in the center."
+                ],
+                "en-CA": [
+                    "is a country in Southeastern Europe. It spans 28,748 square kilometres and had a total population of 3 million people as of 2016",
+					"It is in the southwestern portion of the Balkan Peninsula, bordered by Montenegro to the northwest, Kosovo to the northeast",
+					"Much of the country is mountainous, including the Korab Mountains in the east, the Ceraunian Mountains in the south and the Skanderbeg Mountains in the center."
+                ],
+                "en-IN": [
+                    "is a country in Southeastern Europe. It spans 28,748 square kilometres and had a total population of 3 million people as of 2016",
+					"It is in the southwestern portion of the Balkan Peninsula, bordered by Montenegro to the northwest, Kosovo to the northeast",
+					"Much of the country is mountainous, including the Korab Mountains in the east, the Ceraunian Mountains in the south and the Skanderbeg Mountains in the center."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Alderney",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Alderney.png",
+            "Utterances": [
+                    "Alderney",
+                    "al durney",
+                    "alldurny",
+                    "al derney",
+                    "alderney"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "It is the northernmost of the inhabited Channel Islands. It is part of the Bailiwick of Guernsey, a British Crown dependency",
+					"It is 3 miles or 5 Kilometers long and 1.5 miles or 2.4 kilometers wide",
+					"The main town, St Anne, historically known as La Ville, is often referred to as St Anne's by visitors."
+                ],
+                "en-US": [
+                    "It is the northernmost of the inhabited Channel Islands. It is part of the Bailiwick of Guernsey, a British Crown dependency",
+					"It is 3 miles or 5 Kilometers long and 1.5 miles or 2.4 kilometers wide",
+					"The main town, St Anne, historically known as La Ville, is often referred to as St Anne's by visitors."
+                ],
+                "en-AU": [
+                    "It is the northernmost of the inhabited Channel Islands. It is part of the Bailiwick of Guernsey, a British Crown dependency",
+					"It is 3 miles or 5 Kilometers long and 1.5 miles or 2.4 kilometers wide",
+					"The main town, St Anne, historically known as La Ville, is often referred to as St Anne's by visitors."
+                ],
+                "en-CA": [
+                    "It is the northernmost of the inhabited Channel Islands. It is part of the Bailiwick of Guernsey, a British Crown dependency",
+					"It is 3 miles or 5 Kilometers long and 1.5 miles or 2.4 kilometers wide",
+					"The main town, St Anne, historically known as La Ville, is often referred to as St Anne's by visitors."
+                ],
+                "en-IN": [
+                    "It is the northernmost of the inhabited Channel Islands. It is part of the Bailiwick of Guernsey, a British Crown dependency",
+					"It is 3 miles or 5 Kilometers long and 1.5 miles or 2.4 kilometers wide",
+					"The main town, St Anne, historically known as La Ville, is often referred to as St Anne's by visitors."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Algeria",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Albania.png",
+            "Utterances": [
+                    "Algeria",
+                    "al jeeria",
+                    "aljeers",
+                    "allgeeria"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "is a sovereign state in North Africa on the Mediterranean coast. The capital and most populous city which bears its name, is located in the far north of the country",
+					"The country has known many empires and dynasties, including ancient Numidians, Phoenicians, Carthaginians, Romans",
+					"The North African country supplies large amounts of natural gas to Europe, and energy exports are the backbone of the economy."
+                ],
+                "en-US": [
+                    "is a sovereign state in North Africa on the Mediterranean coast. The capital and most populous city which bears its name, is located in the far north of the country",
+					"The country has known many empires and dynasties, including ancient Numidians, Phoenicians, Carthaginians, Romans",
+					"The North African country supplies large amounts of natural gas to Europe, and energy exports are the backbone of the economy."
+                ],
+                "en-AU": [
+                    "is a sovereign state in North Africa on the Mediterranean coast. The capital and most populous city which bears its name, is located in the far north of the country",
+					"The country has known many empires and dynasties, including ancient Numidians, Phoenicians, Carthaginians, Romans",
+					"The North African country supplies large amounts of natural gas to Europe, and energy exports are the backbone of the economy."
+                ],
+                "en-CA": [
+                    "is a sovereign state in North Africa on the Mediterranean coast. The capital and most populous city which bears its name, is located in the far north of the country",
+					"The country has known many empires and dynasties, including ancient Numidians, Phoenicians, Carthaginians, Romans",
+					"The North African country supplies large amounts of natural gas to Europe, and energy exports are the backbone of the economy."
+                ],
+                "en-IN": [
+                    "is a sovereign state in North Africa on the Mediterranean coast. The capital and most populous city which bears its name, is located in the far north of the country",
+					"The country has known many empires and dynasties, including ancient Numidians, Phoenicians, Carthaginians, Romans",
+					"The North African country supplies large amounts of natural gas to Europe, and energy exports are the backbone of the economy."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Altai Republic",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/AltaiRepublic.png",
+            "Utterances": [
+                    "Altai Republic",
+                    "Altai",
+                    "all tie republic",
+                    "all tie"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "the country is in the very center of Asia at the junction of the Siberian taiga, the steppes of Kazakhstan and the semi-deserts of Mongolia",
+					"More than 20,000 tributaries sprawl throughout the mountainous Republic",
+					"Various bodies of water are among the most important natural resources of the Republic. Mineral and hot springs are popular destinations for tourists and locals, sought for their therapeutic effects."
+                ],
+                "en-US": [
+                    "the country is in the very center of Asia at the junction of the Siberian taiga, the steppes of Kazakhstan and the semi-deserts of Mongolia",
+					"More than 20,000 tributaries sprawl throughout the mountainous Republic",
+					"Various bodies of water are among the most important natural resources of the Republic. Mineral and hot springs are popular destinations for tourists and locals, sought for their therapeutic effects."
+                ],
+                "en-AU": [
+                    "the country is in the very center of Asia at the junction of the Siberian taiga, the steppes of Kazakhstan and the semi-deserts of Mongolia",
+					"More than 20,000 tributaries sprawl throughout the mountainous Republic",
+					"Various bodies of water are among the most important natural resources of the Republic. Mineral and hot springs are popular destinations for tourists and locals, sought for their therapeutic effects."
+                ],
+                "en-CA": [
+                    "the country is in the very center of Asia at the junction of the Siberian taiga, the steppes of Kazakhstan and the semi-deserts of Mongolia",
+					"More than 20,000 tributaries sprawl throughout the mountainous Republic",
+					"Various bodies of water are among the most important natural resources of the Republic. Mineral and hot springs are popular destinations for tourists and locals, sought for their therapeutic effects."
+                ],
+                "en-IN": [
+                    "the country is in the very center of Asia at the junction of the Siberian taiga, the steppes of Kazakhstan and the semi-deserts of Mongolia",
+					"More than 20,000 tributaries sprawl throughout the mountainous Republic",
+					"Various bodies of water are among the most important natural resources of the Republic. Mineral and hot springs are popular destinations for tourists and locals, sought for their therapeutic effects."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "American Somoa",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/AmericanSomoa.png",
+            "Utterances": [
+                    "American Somoa",
+                    "Somoa",
+                    "Ameerican Somoa",
+                    "American som oa",
+                    "Some oh ahh"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "it consists of five main islands and two coral atolls. The largest and most populous island is Tutuila, with the Manuʻa Islands, Rose Atoll, and Swains Island also included in the territory.",
+					"The 2010 census showed a total population of 55,519 people. The total land area is 199 square kilometers",
+					"During the 1918 flu pandemic, Governor John Martin Poyer quarantined the territory, and because of his actions, it was one of the few places in the world where no flu-related deaths occurred."
+                ],
+                "en-US": [
+                    "it consists of five main islands and two coral atolls. The largest and most populous island is Tutuila, with the Manuʻa Islands, Rose Atoll, and Swains Island also included in the territory.",
+					"The 2010 census showed a total population of 55,519 people. The total land area is 199 square kilometers",
+					"During the 1918 flu pandemic, Governor John Martin Poyer quarantined the territory, and because of his actions, it was one of the few places in the world where no flu-related deaths occurred."
+                ],
+                "en-AU": [
+                    "it consists of five main islands and two coral atolls. The largest and most populous island is Tutuila, with the Manuʻa Islands, Rose Atoll, and Swains Island also included in the territory.",
+					"The 2010 census showed a total population of 55,519 people. The total land area is 199 square kilometers",
+					"During the 1918 flu pandemic, Governor John Martin Poyer quarantined the territory, and because of his actions, it was one of the few places in the world where no flu-related deaths occurred."
+                ],
+                "en-CA": [
+                    "it consists of five main islands and two coral atolls. The largest and most populous island is Tutuila, with the Manuʻa Islands, Rose Atoll, and Swains Island also included in the territory.",
+					"The 2010 census showed a total population of 55,519 people. The total land area is 199 square kilometers",
+					"During the 1918 flu pandemic, Governor John Martin Poyer quarantined the territory, and because of his actions, it was one of the few places in the world where no flu-related deaths occurred."
+                ],
+                "en-IN": [
+                    "it consists of five main islands and two coral atolls. The largest and most populous island is Tutuila, with the Manuʻa Islands, Rose Atoll, and Swains Island also included in the territory.",
+					"The 2010 census showed a total population of 55,519 people. The total land area is 199 square kilometers",
+					"During the 1918 flu pandemic, Governor John Martin Poyer quarantined the territory, and because of his actions, it was one of the few places in the world where no flu-related deaths occurred."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Andorra",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Andorra.png",
+            "Utterances": [
+                    "Andorra",
+                    "Andor aah",
+                    "Ando raa",
+                    "an door ah"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "It is a sovereign landlocked microstate in Southwestern Europe, located in the eastern Pyrenees mountains and bordered by France in the north, and the Spanish Catalonia in the south.",
+					"it is the sixth-smallest nation in Europe, having an area of 468 square kilometers and a population of approximately 77,281",
+					"Its capital is the highest capital city in Europe, at an elevation of 1,023 metres above sea level."
+                ],
+                "en-US": [
+                    "It is a sovereign landlocked microstate in Southwestern Europe, located in the eastern Pyrenees mountains and bordered by France in the north, and the Spanish Catalonia in the south.",
+					"it is the sixth-smallest nation in Europe, having an area of 468 square kilometers and a population of approximately 77,281",
+					"Its capital is the highest capital city in Europe, at an elevation of 1,023 metres above sea level."
+                ],
+                "en-AU": [
+                    "It is a sovereign landlocked microstate in Southwestern Europe, located in the eastern Pyrenees mountains and bordered by France in the north, and the Spanish Catalonia in the south.",
+					"it is the sixth-smallest nation in Europe, having an area of 468 square kilometers and a population of approximately 77,281",
+					"Its capital is the highest capital city in Europe, at an elevation of 1,023 metres above sea level."
+                ],
+                "en-CA": [
+                    "It is a sovereign landlocked microstate in Southwestern Europe, located in the eastern Pyrenees mountains and bordered by France in the north, and the Spanish Catalonia in the south.",
+					"it is the sixth-smallest nation in Europe, having an area of 468 square kilometers and a population of approximately 77,281",
+					"Its capital is the highest capital city in Europe, at an elevation of 1,023 metres above sea level."
+                ],
+                "en-IN": [
+                    "It is a sovereign landlocked microstate in Southwestern Europe, located in the eastern Pyrenees mountains and bordered by France in the north, and the Spanish Catalonia in the south.",
+					"it is the sixth-smallest nation in Europe, having an area of 468 square kilometers and a population of approximately 77,281",
+					"Its capital is the highest capital city in Europe, at an elevation of 1,023 metres above sea level."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Angola",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Angola.png",
+            "Utterances": [
+                    "Angola",
+                    "Anne goal ah",
+                    "Angler",
+                    "an goala"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "is a country in Southern Africa. It is the seventh-largest country in Africa, bordered by Namibia to the south, the Democratic Republic of the Congo to the north.",
+					"Although inhabited since the Paleolithic Era, its culture was molded by Portuguese colonisation",
+					"The civil war between the ruling MPLA and the insurgent anti-communist UNITA, supported by the United States and apartheid South Africa, lasted until 2002."
+                ],
+                "en-US": [
+                    "is a country in Southern Africa. It is the seventh-largest country in Africa, bordered by Namibia to the south, the Democratic Republic of the Congo to the north.",
+					"Although inhabited since the Paleolithic Era, its culture was molded by Portuguese colonisation",
+					"The civil war between the ruling MPLA and the insurgent anti-communist UNITA, supported by the United States and apartheid South Africa, lasted until 2002."
+                ],
+                "en-AU": [
+                    "is a country in Southern Africa. It is the seventh-largest country in Africa, bordered by Namibia to the south, the Democratic Republic of the Congo to the north.",
+					"Although inhabited since the Paleolithic Era, its culture was molded by Portuguese colonisation",
+					"The civil war between the ruling MPLA and the insurgent anti-communist UNITA, supported by the United States and apartheid South Africa, lasted until 2002."
+                ],
+                "en-CA": [
+                    "is a country in Southern Africa. It is the seventh-largest country in Africa, bordered by Namibia to the south, the Democratic Republic of the Congo to the north.",
+					"Although inhabited since the Paleolithic Era, its culture was molded by Portuguese colonisation",
+					"The civil war between the ruling MPLA and the insurgent anti-communist UNITA, supported by the United States and apartheid South Africa, lasted until 2002."
+                ],
+                "en-IN": [
+                    "is a country in Southern Africa. It is the seventh-largest country in Africa, bordered by Namibia to the south, the Democratic Republic of the Congo to the north.",
+					"Although inhabited since the Paleolithic Era, its culture was molded by Portuguese colonisation",
+					"The civil war between the ruling MPLA and the insurgent anti-communist UNITA, supported by the United States and apartheid South Africa, lasted until 2002."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Anguilla",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Anguilla.png",
+            "Utterances": [
+                    "Anguilla",
+                    "Anne guilla",
+                    "An guilla",
+                    "an gorilla"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "It is a British overseas territory in the Caribbean.",
+					"it has become a popular tax haven, having no capital gains, estate, profit or other forms of direct taxation on either individuals or corporations.",
+					"It was first settled by Indigenous Amerindian peoples who migrated from South America."
+                ],
+                "en-US": [
+                    "It is a British overseas territory in the Caribbean.",
+					"it has become a popular tax haven, having no capital gains, estate, profit or other forms of direct taxation on either individuals or corporations.",
+					"It was first settled by Indigenous Amerindian peoples who migrated from South America."
+                ],
+                "en-AU": [
+                    "It is a British overseas territory in the Caribbean.",
+					"it has become a popular tax haven, having no capital gains, estate, profit or other forms of direct taxation on either individuals or corporations.",
+					"It was first settled by Indigenous Amerindian peoples who migrated from South America."
+                ],
+                "en-CA": [
+                    "It is a British overseas territory in the Caribbean.",
+					"it has become a popular tax haven, having no capital gains, estate, profit or other forms of direct taxation on either individuals or corporations.",
+					"It was first settled by Indigenous Amerindian peoples who migrated from South America."
+                ],
+                "en-IN": [
+                    "It is a British overseas territory in the Caribbean.",
+					"it has become a popular tax haven, having no capital gains, estate, profit or other forms of direct taxation on either individuals or corporations.",
+					"It was first settled by Indigenous Amerindian peoples who migrated from South America."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Antarctica",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Antarctica.png",
+            "Utterances": [
+                    "Antarctica",
+                    "ant acrtica",
+                    "Ant arctic",
+                    "antarctic"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "is a polar region, specifically the region around the Earth's South Pole.",
+					"The maritime part of the region constitutes the area of application of the international CCAMLR.",
+					"A variety of animals live there, including, Seals, Penguins, Whales, Albatrosses and Squid."
+                ],
+                "en-US": [
+                    "is a polar region, specifically the region around the Earth's South Pole.",
+					"The maritime part of the region constitutes the area of application of the international CCAMLR.",
+					"A variety of animals live there, including, Seals, Penguins, Whales, Albatrosses and Squid."
+                ],
+                "en-AU": [
+                    "is a polar region, specifically the region around the Earth's South Pole.",
+					"The maritime part of the region constitutes the area of application of the international CCAMLR.",
+					"A variety of animals live there, including, Seals, Penguins, Whales, Albatrosses and Squid."
+                ],
+                "en-CA": [
+                    "is a polar region, specifically the region around the Earth's South Pole.",
+					"The maritime part of the region constitutes the area of application of the international CCAMLR.",
+					"A variety of animals live there, including, Seals, Penguins, Whales, Albatrosses and Squid."
+                ],
+                "en-IN": [
+                    "is a polar region, specifically the region around the Earth's South Pole.",
+					"The maritime part of the region constitutes the area of application of the international CCAMLR.",
+					"A variety of animals live there, including, Seals, Penguins, Whales, Albatrosses and Squid."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Antigua and Barbuda",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Antigua-and-Barbuda.png",
+            "Utterances": [
+                    "Antigua and Barbuda",
+                    "antigua",
+                    "barbuda",
+                    "an tiger",
+                    "bar buda"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "It is a sovereign state in the Americas, lying between the Caribbean Sea and the Atlantic Ocean.",
+					"It consists of two major islands, and a number of smaller islands, including Great Bird, Green, Guiana.",
+					"They are in the middle of the Leeward Islands, part of the Lesser Antilles, roughly at 17 Degrees north of the equator."
+                ],
+                "en-US": [
+                    "It is a sovereign state in the Americas, lying between the Caribbean Sea and the Atlantic Ocean.",
+					"It consists of two major islands, and a number of smaller islands, including Great Bird, Green, Guiana.",
+					"They are in the middle of the Leeward Islands, part of the Lesser Antilles, roughly at 17 Degrees north of the equator."
+                ],
+                "en-AU": [
+                    "It is a sovereign state in the Americas, lying between the Caribbean Sea and the Atlantic Ocean.",
+					"It consists of two major islands, and a number of smaller islands, including Great Bird, Green, Guiana.",
+					"They are in the middle of the Leeward Islands, part of the Lesser Antilles, roughly at 17 Degrees north of the equator."
+                ],
+                "en-CA": [
+                    "It is a sovereign state in the Americas, lying between the Caribbean Sea and the Atlantic Ocean.",
+					"It consists of two major islands, and a number of smaller islands, including Great Bird, Green, Guiana.",
+					"They are in the middle of the Leeward Islands, part of the Lesser Antilles, roughly at 17 Degrees north of the equator."
+                ],
+                "en-IN": [
+                    "It is a sovereign state in the Americas, lying between the Caribbean Sea and the Atlantic Ocean.",
+					"It consists of two major islands, and a number of smaller islands, including Great Bird, Green, Guiana.",
+					"They are in the middle of the Leeward Islands, part of the Lesser Antilles, roughly at 17 Degrees north of the equator."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Argentina",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Argentina.png",
+            "Utterances": [
+                    "Argentina",
+                    "argen tina",
+                    "arjen tina",
+                    "arjentina"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "It is a federal republic in the southern portion of South America. Sharing the bulk of the Southern Cone with its neighbor Chile to the west.",
+					"The earliest recorded human presence in the area dates back to the Paleolithic period. The country has its roots in Spanish colonization of the region during the 16th century.",
+					"After 1930, It descended into political instability and periodic economic crises that pushed it back into underdevelopment."
+                ],
+                "en-US": [
+                    "It is a federal republic in the southern portion of South America. Sharing the bulk of the Southern Cone with its neighbor Chile to the west.",
+					"The earliest recorded human presence in the area dates back to the Paleolithic period. The country has its roots in Spanish colonization of the region during the 16th century.",
+					"After 1930, It descended into political instability and periodic economic crises that pushed it back into underdevelopment."
+                ],
+                "en-AU": [
+                    "It is a federal republic in the southern portion of South America. Sharing the bulk of the Southern Cone with its neighbor Chile to the west.",
+					"The earliest recorded human presence in the area dates back to the Paleolithic period. The country has its roots in Spanish colonization of the region during the 16th century.",
+					"After 1930, It descended into political instability and periodic economic crises that pushed it back into underdevelopment."
+                ],
+                "en-CA": [
+                    "It is a federal republic in the southern portion of South America. Sharing the bulk of the Southern Cone with its neighbor Chile to the west.",
+					"The earliest recorded human presence in the area dates back to the Paleolithic period. The country has its roots in Spanish colonization of the region during the 16th century.",
+					"After 1930, It descended into political instability and periodic economic crises that pushed it back into underdevelopment."
+                ],
+                "en-IN": [
+                    "It is a federal republic in the southern portion of South America. Sharing the bulk of the Southern Cone with its neighbor Chile to the west.",
+					"The earliest recorded human presence in the area dates back to the Paleolithic period. The country has its roots in Spanish colonization of the region during the 16th century.",
+					"After 1930, It descended into political instability and periodic economic crises that pushed it back into underdevelopment."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Armenia",
+            "Question": {
+					"en-GB": "What is the Country?",
+                    "en-US": "What is the Country?",
+                    "en-AU": "What is the Country?",
+                    "en-CA": "What is the Country?",
+                    "en-IN": "What is the Country?"
+            },
+            "flagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/Armenia.png",
+            "Utterances": [
+                    "Armenia",
+                    "armeenia",
+                    "amen ia",
+                    "amen eer"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "The country is bordered by Turkey to the west, Georgia to the north.",
+					"It is a unitary, multi-party, democratic nation state with an ancient cultural heritage.",
+					"Between the 16th century and 19th century, it came under the rule of the Ottoman and Iranian empires."
+                ],
+                "en-US": [
+                    "The country is bordered by Turkey to the west, Georgia to the north.",
+					"It is a unitary, multi-party, democratic nation state with an ancient cultural heritage.",
+					"Between the 16th century and 19th century, it came under the rule of the Ottoman and Iranian empires."
+                ],
+                "en-AU": [
+                    "The country is bordered by Turkey to the west, Georgia to the north.",
+					"It is a unitary, multi-party, democratic nation state with an ancient cultural heritage.",
+					"Between the 16th century and 19th century, it came under the rule of the Ottoman and Iranian empires."
+                ],
+                "en-CA": [
+                    "The country is bordered by Turkey to the west, Georgia to the north.",
+					"It is a unitary, multi-party, democratic nation state with an ancient cultural heritage.",
+					"Between the 16th century and 19th century, it came under the rule of the Ottoman and Iranian empires."
+                ],
+                "en-IN": [
+                    "The country is bordered by Turkey to the west, Georgia to the north.",
+					"It is a unitary, multi-party, democratic nation state with an ancient cultural heritage.",
+					"Between the 16th century and 19th century, it came under the rule of the Ottoman and Iranian empires."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        }
+    ]
+}
