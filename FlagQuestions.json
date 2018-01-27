@@ -3,11 +3,11 @@
       {
         "Name": "Andorra",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ad.png",
         "Utterances": [ "Andorra" ],
@@ -23,11 +23,11 @@
       {
         "Name": "United Arab Emirates",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ae.png",
         "Utterances": [ "United Arab Emirates" ],
@@ -43,11 +43,11 @@
       {
         "Name": "Afghanistan",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/af.png",
         "Utterances": [ "Afghanistan" ],
@@ -63,11 +63,11 @@
       {
         "Name": "Antigua and Barbuda",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ag.png",
         "Utterances": [ "Antigua and Barbuda" ],
@@ -83,11 +83,11 @@
       {
         "Name": "Anguilla",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ai.png",
         "Utterances": [ "Anguilla" ],
@@ -103,11 +103,11 @@
       {
         "Name": "Albania",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/al.png",
         "Utterances": [ "Albania" ],
@@ -123,11 +123,11 @@
       {
         "Name": "Armenia",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/am.png",
         "Utterances": [ "Armenia" ],
@@ -143,11 +143,11 @@
       {
         "Name": "Angola",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ao.png",
         "Utterances": [ "Angola" ],
@@ -163,11 +163,11 @@
       {
         "Name": "Antarctica",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/aq.png",
         "Utterances": [ "Antarctica" ],
@@ -183,11 +183,11 @@
       {
         "Name": "Argentina",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ar.png",
         "Utterances": [ "Argentina" ],
@@ -203,11 +203,11 @@
       {
         "Name": "American Samoa",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/as.png",
         "Utterances": [ "American Samoa" ],
@@ -223,11 +223,11 @@
       {
         "Name": "Austria",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/at.png",
         "Utterances": [ "Austria" ],
@@ -243,11 +243,11 @@
       {
         "Name": "Australia",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/au.png",
         "Utterances": [ "Australia" ],
@@ -263,11 +263,11 @@
       {
         "Name": "Aruba",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/aw.png",
         "Utterances": [ "Aruba" ],
@@ -283,11 +283,11 @@
       {
         "Name": "Aland Islands",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ax.png",
         "Utterances": [ "Aland Islands" ],
@@ -303,11 +303,11 @@
       {
         "Name": "Azerbaijan",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/az.png",
         "Utterances": [ "Azerbaijan" ],
@@ -323,11 +323,11 @@
       {
         "Name": "Bosnia and Herzegovina",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ba.png",
         "Utterances": [ "Bosnia and Herzegovina" ],
@@ -343,11 +343,11 @@
       {
         "Name": "Barbados",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bb.png",
         "Utterances": [ "Barbados" ],
@@ -363,11 +363,11 @@
       {
         "Name": "Bangladesh",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bd.png",
         "Utterances": [ "Bangladesh" ],
@@ -383,11 +383,11 @@
       {
         "Name": "Belgium",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/be.png",
         "Utterances": [ "Belgium" ],
@@ -403,11 +403,11 @@
       {
         "Name": "Burkina Faso",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bf.png",
         "Utterances": [ "Burkina Faso" ],
@@ -423,11 +423,11 @@
       {
         "Name": "Bulgaria",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bg.png",
         "Utterances": [ "Bulgaria" ],
@@ -443,11 +443,11 @@
       {
         "Name": "Bahrain",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bh.png",
         "Utterances": [ "Bahrain" ],
@@ -463,11 +463,11 @@
       {
         "Name": "Burundi",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bi.png",
         "Utterances": [ "Burundi" ],
@@ -483,11 +483,11 @@
       {
         "Name": "Benin",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bj.png",
         "Utterances": [ "Benin" ],
@@ -503,11 +503,11 @@
       {
         "Name": "Saint Barthélemy",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bl.png",
         "Utterances": [ "Saint Barthélemy" ],
@@ -523,11 +523,11 @@
       {
         "Name": "Bermuda",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bm.png",
         "Utterances": [ "Bermuda" ],
@@ -543,11 +543,11 @@
       {
         "Name": "Brunei",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bn.png",
         "Utterances": [ "Brunei" ],
@@ -563,11 +563,11 @@
       {
         "Name": "Bolivia",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bo.png",
         "Utterances": [ "Bolivia" ],
@@ -583,11 +583,11 @@
       {
         "Name": "Caribbean Netherlands",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bq.png",
         "Utterances": [ "Caribbean Netherlands" ],
@@ -603,11 +603,11 @@
       {
         "Name": "Brazil",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/br.png",
         "Utterances": [ "Brazil" ],
@@ -623,11 +623,11 @@
       {
         "Name": "Bahamas",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bs.png",
         "Utterances": [ "Bahamas" ],
@@ -643,11 +643,11 @@
       {
         "Name": "Bhutan",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bt.png",
         "Utterances": [ "Bhutan" ],
@@ -663,11 +663,11 @@
       {
         "Name": "Bouvet Island",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bv.png",
         "Utterances": [ "Bouvet Island" ],
@@ -683,11 +683,11 @@
       {
         "Name": "Botswana",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bw.png",
         "Utterances": [ "Botswana" ],
@@ -703,11 +703,11 @@
       {
         "Name": "Belarus",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/by.png",
         "Utterances": [ "Belarus" ],
@@ -723,11 +723,11 @@
       {
         "Name": "Belize",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/bz.png",
         "Utterances": [ "Belize" ],
@@ -743,11 +743,11 @@
       {
         "Name": "Canada",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ca.png",
         "Utterances": [ "Canada" ],
@@ -763,11 +763,11 @@
       {
         "Name": "Cocos Islands",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cc.png",
         "Utterances": [ "Cocos Islands" ],
@@ -783,11 +783,11 @@
       {
         "Name": "the Democratic Republic of the Congo",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cd.png",
         "Utterances": [ "the Democratic Republic of the Congo" ],
@@ -803,11 +803,11 @@
       {
         "Name": "Central African Republic",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cf.png",
         "Utterances": [ "Central African Republic" ],
@@ -823,11 +823,11 @@
       {
         "Name": "Congo",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cg.png",
         "Utterances": [ "Congo" ],
@@ -843,11 +843,11 @@
       {
         "Name": "Switzerland",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ch.png",
         "Utterances": [ "Switzerland" ],
@@ -863,11 +863,11 @@
       {
         "Name": "Ivory Coast",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ci.png",
         "Utterances": [ "Ivory Coast" ],
@@ -883,11 +883,11 @@
       {
         "Name": "Cook Islands",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ck.png",
         "Utterances": [ "Cook Islands" ],
@@ -903,11 +903,11 @@
       {
         "Name": "Chile",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cl.png",
         "Utterances": [ "Chile" ],
@@ -923,11 +923,11 @@
       {
         "Name": "Cameroon",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cm.png",
         "Utterances": [ "Cameroon" ],
@@ -943,11 +943,11 @@
       {
         "Name": "China",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cn.png",
         "Utterances": [ "China" ],
@@ -963,11 +963,11 @@
       {
         "Name": "Colombia",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/co.png",
         "Utterances": [ "Colombia" ],
@@ -983,11 +983,11 @@
       {
         "Name": "Costa Rica",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cr.png",
         "Utterances": [ "Costa Rica" ],
@@ -1003,11 +1003,11 @@
       {
         "Name": "Cuba",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cu.png",
         "Utterances": [ "Cuba" ],
@@ -1023,11 +1023,11 @@
       {
         "Name": "Cape Verde",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cv.png",
         "Utterances": [ "Cape Verde" ],
@@ -1043,11 +1043,11 @@
       {
         "Name": "Christmas Island",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cx.png",
         "Utterances": [ "Christmas Island" ],
@@ -1063,11 +1063,11 @@
       {
         "Name": "Cyprus",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cy.png",
         "Utterances": [ "Cyprus" ],
@@ -1083,11 +1083,11 @@
       {
         "Name": "Czech Republic",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/cz.png",
         "Utterances": [ "Czech Republic" ],
@@ -1103,11 +1103,11 @@
       {
         "Name": "Germany",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/de.png",
         "Utterances": [ "Germany" ],
@@ -1123,11 +1123,11 @@
       {
         "Name": "Djibouti",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/dj.png",
         "Utterances": [ "Djibouti" ],
@@ -1143,11 +1143,11 @@
       {
         "Name": "Denmark",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/dk.png",
         "Utterances": [ "Denmark" ],
@@ -1163,11 +1163,11 @@
       {
         "Name": "Dominica",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/dm.png",
         "Utterances": [ "Dominica" ],
@@ -1183,11 +1183,11 @@
       {
         "Name": "Dominican Republic",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/do.png",
         "Utterances": [ "Dominican Republic" ],
@@ -1203,11 +1203,11 @@
       {
         "Name": "Algeria",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/dz.png",
         "Utterances": [ "Algeria" ],
@@ -1223,11 +1223,11 @@
       {
         "Name": "Ecuador",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ec.png",
         "Utterances": [ "Ecuador" ],
@@ -1243,11 +1243,11 @@
       {
         "Name": "Estonia",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ee.png",
         "Utterances": [ "Estonia" ],
@@ -1263,11 +1263,11 @@
       {
         "Name": "Egypt",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/eg.png",
         "Utterances": [ "Egypt" ],
@@ -1283,11 +1283,11 @@
       {
         "Name": "Western Sahara",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/eh.png",
         "Utterances": [ "Western Sahara" ],
@@ -1303,11 +1303,11 @@
       {
         "Name": "Eritrea",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/er.png",
         "Utterances": [ "Eritrea" ],
@@ -1323,11 +1323,11 @@
       {
         "Name": "Spain",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/es.png",
         "Utterances": [ "Spain" ],
@@ -1343,11 +1343,11 @@
       {
         "Name": "Ethiopia",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/et.png",
         "Utterances": [ "Ethiopia" ],
@@ -1363,11 +1363,11 @@
       {
         "Name": "Finland",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/fi.png",
         "Utterances": [ "Finland" ],
@@ -1383,11 +1383,11 @@
       {
         "Name": "Fiji",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/fj.png",
         "Utterances": [ "Fiji" ],
@@ -1403,11 +1403,11 @@
       {
         "Name": "Falkland Islands",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/fk.png",
         "Utterances": [ "Falkland Islands" ],
@@ -1423,11 +1423,11 @@
       {
         "Name": "Federated States of Micronesia",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/fm.png",
         "Utterances": [ "Federated States of Micronesia" ],
@@ -1443,11 +1443,11 @@
       {
         "Name": "Faroe Islands",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/fo.png",
         "Utterances": [ "Faroe Islands" ],
@@ -1463,11 +1463,11 @@
       {
         "Name": "France",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/fr.png",
         "Utterances": [ "France" ],
@@ -1483,11 +1483,11 @@
       {
         "Name": "Gabon",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ga.png",
         "Utterances": [ "Gabon" ],
@@ -1503,11 +1503,11 @@
       {
         "Name": "England",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gb-eng.png",
         "Utterances": [ "England" ],
@@ -1523,11 +1523,11 @@
       {
         "Name": "Scotland",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gb-sct.png",
         "Utterances": [ "Scotland" ],
@@ -1543,11 +1543,11 @@
       {
         "Name": "Wales",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gb-wls.png",
         "Utterances": [ "Wales" ],
@@ -1563,11 +1563,11 @@
       {
         "Name": "United Kingdom",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gb.png",
         "Utterances": [ "United Kingdom" ],
@@ -1583,11 +1583,11 @@
       {
         "Name": "Grenada",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gd.png",
         "Utterances": [ "Grenada" ],
@@ -1603,11 +1603,11 @@
       {
         "Name": "Georgia",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ge.png",
         "Utterances": [ "Georgia" ],
@@ -1623,11 +1623,11 @@
       {
         "Name": "Guernsey",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gg.png",
         "Utterances": [ "Guernsey" ],
@@ -1643,11 +1643,11 @@
       {
         "Name": "Ghana",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gh.png",
         "Utterances": [ "Ghana" ],
@@ -1663,11 +1663,11 @@
       {
         "Name": "Gibraltar",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gi.png",
         "Utterances": [ "Gibraltar" ],
@@ -1683,11 +1683,11 @@
       {
         "Name": "Greenland",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gl.png",
         "Utterances": [ "Greenland" ],
@@ -1703,11 +1703,11 @@
       {
         "Name": "Gambia",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gm.png",
         "Utterances": [ "Gambia" ],
@@ -1723,11 +1723,11 @@
       {
         "Name": "Guinea",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gn.png",
         "Utterances": [ "Guinea" ],
@@ -1743,11 +1743,11 @@
       {
         "Name": "Equatorial Guinea",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gq.png",
         "Utterances": [ "Equatorial Guinea" ],
@@ -1763,11 +1763,11 @@
       {
         "Name": "Greece",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gr.png",
         "Utterances": [ "Greece" ],
@@ -1783,11 +1783,11 @@
       {
         "Name": "Guatemala",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gt.png",
         "Utterances": [ "Guatemala" ],
@@ -1803,11 +1803,11 @@
       {
         "Name": "Guam",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gu.png",
         "Utterances": [ "Guam" ],
@@ -1823,11 +1823,11 @@
       {
         "Name": "Guyana",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/gy.png",
         "Utterances": [ "Guyana" ],
@@ -1843,11 +1843,11 @@
       {
         "Name": "Hong Kong",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/hk.png",
         "Utterances": [ "Hong Kong" ],
@@ -1863,11 +1863,11 @@
       {
         "Name": "Honduras",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/hn.png",
         "Utterances": [ "Honduras" ],
@@ -1883,11 +1883,11 @@
       {
         "Name": "Croatia",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/hr.png",
         "Utterances": [ "Croatia" ],
@@ -1903,11 +1903,11 @@
       {
         "Name": "Hungary",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/hu.png",
         "Utterances": [ "Hungary" ],
@@ -1923,11 +1923,11 @@
       {
         "Name": "Indonesia",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/id.png",
         "Utterances": [ "Indonesia" ],
@@ -1943,11 +1943,11 @@
       {
         "Name": "Ukraine",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ua.png",
         "Utterances": [ "Ukraine" ],
@@ -1963,11 +1963,11 @@
       {
         "Name": "Uganda",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ug.png",
         "Utterances": [ "Uganda" ],
@@ -1983,11 +1983,11 @@
       {
         "Name": "United States",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/us.png",
         "Utterances": [ "United States" ],
@@ -2003,11 +2003,11 @@
       {
         "Name": "Uruguay",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/uy.png",
         "Utterances": [ "Uruguay" ],
@@ -2023,11 +2023,11 @@
       {
         "Name": "Uzbekistan",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/uz.png",
         "Utterances": [ "Uzbekistan" ],
@@ -2043,11 +2043,11 @@
       {
         "Name": "Vatican City",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/va.png",
         "Utterances": [ "Vatican City" ],
@@ -2063,11 +2063,11 @@
       {
         "Name": "Saint Vincent and the Grenadines",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/vc.png",
         "Utterances": [ "Saint Vincent and the Grenadines" ],
@@ -2083,11 +2083,11 @@
       {
         "Name": "Venezuela",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ve.png",
         "Utterances": [ "Venezuela" ],
@@ -2103,11 +2103,11 @@
       {
         "Name": "British Virgin Islands",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/vg.png",
         "Utterances": [ "British Virgin Islands" ],
@@ -2123,11 +2123,11 @@
       {
         "Name": "Virgin Islands",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/vi.png",
         "Utterances": [ "Virgin Islands" ],
@@ -2143,11 +2143,11 @@
       {
         "Name": "Vietnam",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/vn.png",
         "Utterances": [ "Vietnam" ],
@@ -2163,11 +2163,11 @@
       {
         "Name": "Vanuatu",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/vu.png",
         "Utterances": [ "Vanuatu" ],
@@ -2183,11 +2183,11 @@
       {
         "Name": "Wallis and Futuna Islands",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/wf.png",
         "Utterances": [ "Wallis and Futuna Islands" ],
@@ -2203,11 +2203,11 @@
       {
         "Name": "Samoa",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ws.png",
         "Utterances": [ "Samoa" ],
@@ -2223,11 +2223,11 @@
       {
         "Name": "Kosovo",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/xk.png",
         "Utterances": [ "Kosovo" ],
@@ -2243,11 +2243,11 @@
       {
         "Name": "Yemen",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/ye.png",
         "Utterances": [ "Yemen" ],
@@ -2263,11 +2263,11 @@
       {
         "Name": "Mayotte",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/yt.png",
         "Utterances": [ "Mayotte" ],
@@ -2283,11 +2283,11 @@
       {
         "Name": "South Africa",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/za.png",
         "Utterances": [ "South Africa" ],
@@ -2303,11 +2303,11 @@
       {
         "Name": "Zambia",
         "Question": {
-          "en-GB": "What is the name of country or region this flag represents?",
-          "en-US": "What is the name of country or region this flag represents?",
-          "en-AU": "What is the name of country or region this flag represents?",
-          "en-CA": "What is the name of country or region this flag represents?",
-          "en-In": "What is the name of country or region this flag represents?"
+          "en-GB": "What is the name of the country or region this flag represents?",
+          "en-US": "What is the name of the country or region this flag represents?",
+          "en-AU": "What is the name of the country or region this flag represents?",
+          "en-CA": "What is the name of the country or region this flag represents?",
+          "en-In": "What is the name of the country or region this flag represents?"
         },
         "FlagSrc": "https://raw.githubusercontent.com/fuzzysb/Flag-Quiz-Flags/master/Flags/zm.png",
         "Utterances": [ "Zambia" ],
